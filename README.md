@@ -1,1 +1,1 @@
-# aula-de-ajx-jquery
+# aula-de-ajax-jquery
